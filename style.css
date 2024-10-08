@@ -1,0 +1,21 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+    justify-content: center;
+    text-align: center;
+    background-color: #f1f1f1;
+ 
+}
+
+#Formula1 {
+    border: 3px rgb(105, 103, 103) solid;
+    box-shadow: #000 ;
+    margin: 30px;
+}
+
+#Formula2 {
+    border: 3px rgb(105, 103, 103) solid;
+    box-shadow: #000 ;
+    margin: 30px;
+    
+}

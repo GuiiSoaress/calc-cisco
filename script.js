@@ -9,3 +9,18 @@ function calcular(){
     document.getElementById('resultado').innerText = result;
  
 }
+
+function calcular2(){
+
+    var q = parseFloat(document.getElementById('q').value);
+    var v = parseFloat(document.getElementById('v').value);
+    var b = parseFloat(document.getElementById('b').value);
+    var sen = parseFloat(document.getElementById('sen').value);
+    
+
+
+    var result2 = q * v * b * sen  ;
+
+    document.getElementById('resultado2').innerText = result2;
+ 
+}
